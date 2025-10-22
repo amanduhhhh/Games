@@ -13,6 +13,8 @@ Play as a frog, jumping between logs and ascending toward the stars. Shoot down 
 **Language:** C++, SFML  
 Escape a randomly generated maze while intelligent enemies chase after you.
 
+---
+
 ## [Dash](https://github.com/amanduhhhh/DASH-)  
 **Language:** Python, Pygame  
 Become a fearless adventurer, dashing through fields of green. Jump to avoid trees and bushes, and duck to avoid flying animals!  
