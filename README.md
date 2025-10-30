@@ -3,15 +3,16 @@ Easy access hub to all the games I've made (using Java Swing, Python Pygame, Jav
 
 ---
 
-## [Froggy Jump!](https://github.com/amanduhhhh/FROGGY-JUMP)  
-**Language:** Python, Pygame  
-Play as a frog, jumping between logs and ascending toward the stars. Shoot down enemies with your nimble tongue!  
+## [Oubliette](https://github.com/amanduhhhh/maize)
+**Language:** C++, SFML  
+Escape a randomly generated maze while intelligent enemies chase after you.
 
 ---
 
-## [Oubliette](https://github.com/amanduhhhh/OUBLIETTE)
-**Language:** C++, SFML  
-Escape a randomly generated maze while intelligent enemies chase after you.
+
+## [Froggy Jump!](https://github.com/amanduhhhh/FROGGY-JUMP)  
+**Language:** Python, Pygame  
+Play as a frog, jumping between logs and ascending toward the stars. Shoot down enemies with your nimble tongue!  
 
 ---
 
