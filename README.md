@@ -3,7 +3,7 @@ Easy access hub to all the games I've made (using Java Swing, Python Pygame, Jav
 
 ---
 
-## [Oubliette](https://github.com/amanduhhhh/maize)
+## [Oubliette](https://github.com/amanduhhhh/oubliette)
 **Language:** C++, SFML  
 Escape a randomly generated maze while intelligent enemies chase after you.
 
